@@ -11,12 +11,15 @@ Python
 Machine Learning
 
 # Team:
-* Pratiksh Kumar
-* https://github.com/PratikshKumar
 
 * Rashi Mishra
 * https://github.com/rashi-2003
 
+* Pratiksh Kumar
+* https://github.com/PratikshKumar
+
 * Anamika Priya
 * https://github.com/anamika9693
+
+* Arshiya Chutke
 
