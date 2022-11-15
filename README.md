@@ -11,10 +11,12 @@ Python
 Machine Learning
 
 # Team:
-https://github.com/PratikshKumar
+* Pratiksh Kumar
+* https://github.com/PratikshKumar
 
-<ol>
-  <li></li>
-  <li>Another list item</li>
-</ol>
+* Rashi Mishra
+* https://github.com/rashi-2003
+
+* Anamika Priya
+* https://github.com/anamika9693
 
