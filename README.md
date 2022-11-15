@@ -6,9 +6,12 @@ how to use-
 run the program and then using the required button, with facial recognition system, attendance can be easiy taken.
 Project team- Rashi, Anamika, Arshiya , Pratiksh
 
-Technology Used :
+# Technology Used :
 Python
 Machine Learning
+
+# Team:
+https://github.com/PratikshKumar
 
 
 
